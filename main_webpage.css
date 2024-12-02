@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+html {
+    background-color:#62997A ;
+}
+body > header > img{
+    display: block;
+    width: 100%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container > div {
+    margin: 20px;
+    padding: 30px;
+}
+
+img {
+    border: 0;
+}
+
+
